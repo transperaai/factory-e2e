@@ -1,0 +1,5 @@
+{
+  "scribe": ["records/stakeholders/"],
+  "intake": [".factory/runs/"],
+  "ba": [".factory/runs/"]
+}
