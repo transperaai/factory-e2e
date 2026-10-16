@@ -1,0 +1,17 @@
+id: SRC-001
+type: source
+title: "Acme Logistics ops portal: kickoff call, 2 October 2026"
+status: draft
+version: 1
+created_by: script:intake-sorter
+source_type: transcript
+date: 2026-10-02
+participants:
+  - label: Austin Smith
+    stakeholder: SH-00
+  - label: Sarah Kim
+    stakeholder: SH-01
+  - label: Tom Reyes
+    stakeholder: SH-02
+raw_file: 20261016-102055-kickoff-2026-10-02.txt
+sha256: 42e23cfdad41d698518cfc61a990677dc07d7ab4f92b17da0ff1705ec9b48ce7
