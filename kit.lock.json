@@ -1,10 +1,10 @@
 {
   "kit": "transpera-kit",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "source": {
     "repo": "transperaai/Software-factory",
-    "ref": "kit-v0.3.0",
-    "sha": "c2a0f3ee3c1ad59cba7158752049f2998911f00a"
+    "ref": "kit-v0.4.0",
+    "sha": "d1015f328274a4767ad1981762c80415a059bb94"
   },
   "files": {
     ".claude/agents/ba.md": "ba7082e081342a3237851a86d1aa41f5a18b029aef2688e8713e8adda9a8106c",
@@ -14,6 +14,7 @@
     ".claude/hooks/factory/validate-records.mjs": "4e73e7d262c1eba343a7a09ab0ecc6688daaccf21cdd11fa71484b6a64533a43",
     ".claude/hooks/factory/write-scopes.json": "209547acd3139d44ff7cc50f6a377d9c8b83fcfcb55dc9852f9b116c1c14e8fb",
     ".claude/skills/ba-discovery/SKILL.md": "560ea1174e87f098e0e418b6ed48a70ee8128341b23cb02102d41fba7f6ba640",
+    ".claude/skills/factory-intake/SKILL.md": "2721f2f3cca1a6a0fbd8bec381862e9753378c3f3a545bf04e6d69d2e3b520b8",
     ".claude/skills/factory-records/SKILL.md": "53fe1570b38d3cd6c2d7d4acb3171d7fd32f9e187e7af35ba136524fc217dc07",
     ".claude/skills/intake-claims/SKILL.md": "e5e029103fa8b3a9266efaef1cf2f365005a57467612e6401feb99f7d7b808f5",
     ".factory/schemas/adr.schema.json": "1db9d309a36fcfd2a38ed61831396a3f9f1207578d36e88048f3cdf06a98c1a1",
@@ -51,11 +52,9 @@
     ".factory/schemas/uat_script.schema.json": "86379d134bf93fa163acfe95d8fc07fb81dd45cd2dbc075616b9a7ef8c521aee",
     ".factory/schemas/use_case.schema.json": "6fbbabe6c83a07bfdc0cb7fdad6fe93cd1acffa042715059a3d02595aa14dfde",
     ".factory/tools/intake-sort.mjs": "70350ab67af6c391de16a85f7311e60ef639a72b3acbda772a8df7583b840ee8",
-    ".factory/tools/records.mjs": "4e1bf1abfcdacc71254149b24c4ddd6abfc0fa9c292a2a13519de21a4ab7bb75",
+    ".factory/tools/records.mjs": "8f26ca97e1a47c13923497a6343adb9abcbd6f93ea165e6fa469e4191bfcdef9",
     ".factory/tools/schema-check.mjs": "135b412e185f9247382ee6823c5b8a05fcf24351a17b9d36482b9599ccbb624a",
-    ".github/workflows/ba.yml": "ce4927cf4131bfb079c7279a86198704df0e27f2cd8800b435e07a13c35136f1",
     ".github/workflows/index-sync.yml": "4601908d0c0ab100503462c0c03eb0a84eeb90b73d9d7648513b2a86e67710f4",
-    ".github/workflows/intake.yml": "a38a5deb16ed81ec24bf2d9d2d5b3bdf8315dab3054fd06e4cc0938d9ab77575",
     ".github/workflows/records-check.yml": "6f0cbdd17ab193863b86a18d7fd2ba510c15dd92f8db9bb9b719932595dd3605",
     ".mcp.json": "60ea70a52a3006223fec639711e41c2252ed0d3c06728f224e4ec64e46b59933"
   }
